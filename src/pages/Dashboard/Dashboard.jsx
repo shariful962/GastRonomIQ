@@ -268,6 +268,7 @@ const Dashboard = () => {
               <div>
                 <p className="font-bold text-gray-800 text-base">{name}</p>
                 <p className="text-gray-500 text-sm">
+                  
                   {t(text.toLowerCase().replace(/\s/g, "_"))}
                 </p>
               </div>

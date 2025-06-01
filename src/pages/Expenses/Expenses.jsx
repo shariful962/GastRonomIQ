@@ -143,7 +143,7 @@ const Expenses = () => {
         <h4 lassName="font-semibold font-Roboto text-textClr text-2xl">{t('expense.exp_details')}</h4>
         <p className="text-sm text-textClr/50 mb-4">{t('expense.breakdown_report')}</p>
         <div className="overflow-x-auto">
-          <table className="w-full border-collapse text-sm">
+          <table className="w-full border-collapse text-sm mb-3">
             <thead>
               <tr className="bg-gray-200 font-Inter font-semibold  md:text-sm text-textClr/50">
                 <th className="border border-gray-300 px-1 md:px-3 py-2 text-left font-Inter text-[12px] md:text-sm ">{t('expense.date')}</th>

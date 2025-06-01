@@ -107,12 +107,7 @@ const SignUp = () => {
                   </button>
                 </div>
               </div>
-              {/* Forgotten password link */}
-              {/* <div className="text-right mt-1.5 mb-6.5">
-                <a href="#" className="text-sm text-blue-600 hover:underline">
-                  Forgotten password?
-                </a>
-              </div> */}
+            
 
               {/* submit button  */}
               <button

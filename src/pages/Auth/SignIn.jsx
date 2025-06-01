@@ -90,12 +90,7 @@ const SignIn = () => {
                   </button>
                 </div>
               </div>
-              {/* Forgotten password link */}
-              {/* <div className="text-right mt-1.5 mb-6.5">
-                <Link to={'/forgot-password'} className="text-sm text-blue-600 hover:underline">
-                  Forgotten password?
-                </Link>
-              </div> */}
+             
 
               {/* submit button  */}
               <button
