@@ -132,9 +132,7 @@ const activities = [
 const Dashboard = () => {
   const { t, i18n } = useTranslation();
 
-  const changeLanguage = (e) => {
-    i18n.changeLanguage(e.target.value);
-  };
+
 
   // Function to change the language
   const changeLanguage = (lang)=>{
